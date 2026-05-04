@@ -17,8 +17,8 @@ Tenho facilidade em trabalhar em equipe, boa comunicação e gosto de resolver p
 
 ## 🧠 Tecnologias e Ferramentas
 
-* 💻 **Linguagens:** Python, C#, SQL, JavaScript
-* 🌐 **Web:** HTML, CSS, Tailwind
+* 💻 **Linguagens:** Python, C#, SQL, C#
+* 🌐 **Web:** HTML, CSS
 * 🧰 **Ferramentas:** Power BI, Looker, Pentaho, Git/GitHub
 * 🗄️ **Banco de dados:** MySQL, PostgreSQL
 * ⚙️ **Outros:** APIs REST, automação de processos, IA aplicada
